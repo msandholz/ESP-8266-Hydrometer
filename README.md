@@ -3,3 +3,5 @@
 ![](iSpindel_1.jpg)
 
 ![](iSpindel_2.jpg)
+
+![](DS18S20.png)
