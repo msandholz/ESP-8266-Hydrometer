@@ -1,4 +1,4 @@
-# ESP8266-Hygrometer
+# ESP8266-Hydrometer
 
 ![](iSpindel_1.jpg)
 
